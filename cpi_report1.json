@@ -1,0 +1,30 @@
+{
+    "overall_cpi_change": "0.2% (seasonally adjusted, February 2025); 2.8% (unadjusted, 12-month)",
+    "core_cpi_change": "0.2% (seasonally adjusted, February 2025); 3.1% (unadjusted, 12-month)",
+    "energy_index_change": "0.2% (seasonally adjusted, February 2025); -0.2% (unadjusted, 12-month)",
+    "food_index_change": "0.2% (seasonally adjusted, February 2025); 2.6% (unadjusted, 12-month)",
+    "notable_increases": [
+      "Shelter (+0.3% MoM, +4.2% YoY)",
+      "Food away from home (+0.4% MoM, +3.7% YoY)",
+      "Natural gas (+2.5% MoM, +6.0% YoY)",
+      "Electricity (+1.0% MoM, +2.5% YoY)",
+      "Used cars and trucks (+0.9% MoM)",
+      "Household furnishings and operations (+0.4% MoM)",
+      "Medical care services (+0.3% MoM, +2.9% YoY)",
+      "Apparel (+0.6% MoM)",
+      "Personal care (+MoM increase)",
+      "Motor vehicle insurance (+MoM increase, +11.1% YoY)",
+      "Recreation (+0.3% MoM, +1.8% YoY)",
+      "Meats, poultry, fish, and eggs (+1.6% MoM), including eggs (+10.4% MoM) and beef (+2.4% MoM)"
+    ],
+    "notable_decreases": [
+      "Airline fares (-4.0% MoM)",
+      "Gasoline (-1.0% MoM, -3.1% YoY)",
+      "New vehicles (-0.1% MoM, -0.3% YoY)",
+      "Fruits and vegetables (-0.5% MoM, -0.2% YoY)",
+      "Dairy and related products (-1.0% MoM)",
+      "Other food at home (-0.5% MoM)",
+      "Fuel oil (-5.1% YoY)"
+    ]
+  }
+  

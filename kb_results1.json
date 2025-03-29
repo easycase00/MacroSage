@@ -1,0 +1,227 @@
+{
+    "entities": [
+      {
+        "type": "Person",
+        "name": "Donald Trump"
+      },
+      {
+        "type": "Person",
+        "name": "Charlie Chesbrough"
+      },
+      {
+        "type": "Person",
+        "name": "John Luciano"
+      },
+      {
+        "type": "Person",
+        "name": "Joseph Yoon"
+      },
+      {
+        "type": "Person",
+        "name": "George Glassman"
+      },
+      {
+        "type": "Person",
+        "name": "Abby Samp"
+      },
+      {
+        "type": "Person",
+        "name": "Bob Henig"
+      },
+      {
+        "type": "Organization",
+        "name": "Trump Administration"
+      },
+      {
+        "type": "Organization",
+        "name": "Cox Automotive"
+      },
+      {
+        "type": "Organization",
+        "name": "Street Volkswagen"
+      },
+      {
+        "type": "Organization",
+        "name": "Edmunds"
+      },
+      {
+        "type": "Organization",
+        "name": "University of Michigan"
+      },
+      {
+        "type": "Organization",
+        "name": "Glassman Automotive Group"
+      },
+      {
+        "type": "Organization",
+        "name": "Oxford Economics"
+      },
+      {
+        "type": "Organization",
+        "name": "BMW"
+      },
+      {
+        "type": "Organization",
+        "name": "Ducati"
+      },
+      {
+        "type": "Organization",
+        "name": "Hyundai"
+      },
+      {
+        "type": "Organization",
+        "name": "Stellantis"
+      },
+      {
+        "type": "Location",
+        "name": "United States"
+      },
+      {
+        "type": "Location",
+        "name": "South Korea"
+      },
+      {
+        "type": "Location",
+        "name": "Canada"
+      },
+      {
+        "type": "Location",
+        "name": "Mexico"
+      },
+      {
+        "type": "City",
+        "name": "Colma, California"
+      },
+      {
+        "type": "City",
+        "name": "Amarillo, Texas"
+      },
+      {
+        "type": "City",
+        "name": "Southfield, Michigan"
+      },
+      {
+        "type": "City",
+        "name": "Jessup, Maryland"
+      },
+      {
+        "type": "Product",
+        "name": "Ford F-150"
+      },
+      {
+        "type": "Product",
+        "name": "Volkswagen vehicles"
+      },
+      {
+        "type": "Product",
+        "name": "Hyundai vehicles"
+      },
+      {
+        "type": "Product",
+        "name": "Kia vehicles"
+      },
+      {
+        "type": "Product",
+        "name": "Subaru vehicles"
+      },
+      {
+        "type": "Product",
+        "name": "BMW motorcycles"
+      },
+      {
+        "type": "Product",
+        "name": "Ducati motorcycles"
+      },
+      {
+        "type": "Policy",
+        "name": "25% Tariff on Imported Vehicles and Auto Parts"
+      },
+      {
+        "type": "SocialMediaPlatform",
+        "name": "Truth Social"
+      }
+    ],
+    "relationships": [
+      {
+        "source": "Trump Administration",
+        "target": "25% Tariff on Imported Vehicles and Auto Parts",
+        "relationship": "Announced"
+      },
+      {
+        "source": "Donald Trump",
+        "target": "25% Tariff on Imported Vehicles and Auto Parts",
+        "relationship": "Advocated"
+      },
+      {
+        "source": "25% Tariff on Imported Vehicles and Auto Parts",
+        "target": "Imported Vehicles and Auto Parts",
+        "relationship": "Affects"
+      },
+      {
+        "source": "Charlie Chesbrough",
+        "target": "Cox Automotive",
+        "relationship": "Senior Economist"
+      },
+      {
+        "source": "John Luciano",
+        "target": "Street Volkswagen",
+        "relationship": "Owner"
+      },
+      {
+        "source": "Joseph Yoon",
+        "target": "Edmunds",
+        "relationship": "Consumer Insights Analyst"
+      },
+      {
+        "source": "George Glassman",
+        "target": "Glassman Automotive Group",
+        "relationship": "President"
+      },
+      {
+        "source": "Abby Samp",
+        "target": "Oxford Economics",
+        "relationship": "Industry Economist"
+      },
+      {
+        "source": "Bob Henig",
+        "target": "BMW",
+        "relationship": "Dealer"
+      },
+      {
+        "source": "Bob Henig",
+        "target": "Ducati",
+        "relationship": "Dealer"
+      },
+      {
+        "source": "25% Tariff on Imported Vehicles and Auto Parts",
+        "target": "Toyota, Honda, Subaru, Lexus",
+        "relationship": "Impacts Due to Low Inventory"
+      },
+      {
+        "source": "Hyundai",
+        "target": "United States",
+        "relationship": "Invested $20 Billion in Manufacturing"
+      },
+      {
+        "source": "Stellantis",
+        "target": "United States",
+        "relationship": "Invested $5 Billion in Manufacturing"
+      },
+      {
+        "source": "University of Michigan",
+        "target": "Consumer Sentiment Survey",
+        "relationship": "Published"
+      },
+      {
+        "source": "Donald Trump",
+        "target": "Truth Social",
+        "relationship": "Posted"
+      },
+      {
+        "source": "Ford F-150",
+        "target": "Canada and Mexico",
+        "relationship": "Parts Sourced From"
+      }
+    ]
+  }
+  

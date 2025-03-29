@@ -1,0 +1,464 @@
+[
+  {
+    "url": "https://www.cnbc.com/2025/03/24/optimism-is-growing-around-the-uk-economy-amid-us-eu-trade-disputes.html",
+    "data": [
+      {
+        "index": 0,
+        "error": true,
+        "tags": [
+          "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+      },
+      {
+        "index": 1,
+        "error": true,
+        "tags": [
+          "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+      },
+      {
+        "index": 2,
+        "error": true,
+        "tags": [
+          "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+      }
+    ]
+  },
+  {
+    "url": "https://www.cnbc.com/2025/03/17/retail-sales-increased-0point2percent-in-february-less-than-expected.html",
+    "data": [
+      {
+        "index": 2,
+        "error": true,
+        "tags": [
+          "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+      },
+      {
+        "index": 0,
+        "tags": [
+          "introduction"
+        ],
+        "content": [
+          "This is the first paragraph of the article, which provides an introduction and overview of the main topic.",
+          "Retail sales increased 0.2% in [region] last month."
+        ],
+        "error": false
+      },
+      {
+        "index": 1,
+        "tags": [
+          "background"
+        ],
+        "content": [
+          "This is the second paragraph, which delves into the history and background of the topic.",
+          "It provides context and sets the stage for the rest of the article."
+        ],
+        "error": false
+      },
+      {
+        "index": 2,
+        "tags": [
+          "inflation"
+        ],
+        "content": [
+          "The retail sales increase was attributed to factors including inflation, which rose by [percentage]."
+        ],
+        "error": false
+      },
+      {
+        "index": 3,
+        "tags": [
+          "interest rates"
+        ],
+        "content": [
+          "Inflation contributed significantly to the rise in retail sales, driven by [interest rate] hikes."
+        ],
+        "error": false
+      },
+      {
+        "index": 4,
+        "tags": [
+          "recession indicators"
+        ],
+        "content": [
+          "Despite the increase in retail sales, the overall economy remained stable, with no signs of recession."
+        ],
+        "error": false
+      },
+      {
+        "index": 5,
+        "tags": [
+          "consumer sentiment"
+        ],
+        "content": [
+          "Consumer confidence remained high, reflecting positive trends in spending and purchasing power."
+        ],
+        "error": false
+      },
+      {
+        "index": 6,
+        "tags": [
+          "analysis"
+        ],
+        "content": [
+          "The retail sector experienced a surge due to increased consumer spending on non-essential items."
+        ],
+        "error": false
+      },
+      {
+        "index": 1,
+        "tags": [
+          "introduction"
+        ],
+        "content": [
+          "This article focuses on key economic insights including inflation percentages and interest rate trends.",
+          "It provides an overview of current economic conditions and sets the stage for discussing specific indicators."
+        ],
+        "error": false
+      },
+      {
+        "index": 2,
+        "tags": [
+          "background"
+        ],
+        "content": [
+          "The historical context of inflation rates and interest rates is discussed in this section.",
+          "It provides background information necessary to understand the current trends and data presented."
+        ],
+        "error": false
+      },
+      {
+        "index": 3,
+        "tags": [
+          "consumer sentiment"
+        ],
+        "content": [
+          "This section analyzes consumer sentiment towards economic policies and market conditions.",
+          "It explores how sentiment influences overall economic behavior."
+        ],
+        "error": false
+      },
+      {
+        "index": 4,
+        "tags": [
+          "economic indicators"
+        ],
+        "content": [
+          "Key economic indicators such as the consumer price index (CPI) and inflation rates are presented here.",
+          "This section includes detailed numerical data for analysis."
+        ],
+        "error": false
+      },
+      {
+        "index": 5,
+        "tags": [
+          "background of economic indicators"
+        ],
+        "content": [
+          "The background of these key indicators is discussed in this section, providing context for their trends."
+        ],
+        "error": false
+      },
+      {
+        "index": 6,
+        "tags": [
+          "factory activity"
+        ],
+        "content": [
+          "Negative factory activity growth in March indicates potential recessionary conditions.",
+          "This section provides context on the economic slowdown."
+        ],
+        "error": false
+      },
+      {
+        "index": 7,
+        "tags": [
+          "shipments and trends"
+        ],
+        "content": [
+          "Shipments of goods decreased by a significant margin, reflecting broader economic trends.",
+          "This section highlights the impact of reduced shipments on overall economic performance."
+        ],
+        "error": false
+      },
+      {
+        "index": 8,
+        "tags": [
+          "inflation correction"
+        ],
+        "content": [
+          "A correction is noted regarding changes in new orders and shipments, affecting inflation calculations.",
+          "This section clarifies any discrepancies or errors in the data presented."
+        ],
+        "error": false
+      },
+      {
+        "index": 9,
+        "tags": [
+          "conclusion"
+        ],
+        "content": [
+          "In conclusion, this article highlights key economic insights including inflation trends and interest rates.",
+          "It concludes by summarizing the main points discussed throughout the text."
+        ],
+        "error": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.cnbc.com/2025/03/16/treasury-secretary-bessent-says-white-house-is-heading-off-financial-crisis.html",
+    "data": [
+      {
+        "index": 1,
+        "error": true,
+        "tags": [
+          "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+      },
+      {
+        "index": 2,
+        "error": true,
+        "tags": [
+          "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+      },
+      {
+        "index": 0,
+        "error": true,
+        "tags": [
+          "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+      }
+    ]
+  },
+  {
+    "url": "https://www.cnbc.com/2025/03/20/us-households-are-running-out-of-emergency-funds-as-pandemic-cash-runs-out-inflation-takes-its-toll.html",
+    "data": [
+      {
+        "index": 0,
+        "tags": [
+          "introduction"
+        ],
+        "content": [
+          "This is the first paragraph of the article, which provides an introduction and overview of the main topic.",
+          "The content sets the stage for discussing key economic insights."
+        ],
+        "error": false
+      },
+      {
+        "index": 1,
+        "tags": [
+          "background"
+        ],
+        "content": [
+          "This is the second paragraph, which delves into the history and background of the topic.",
+          "It provides context and sets the stage for the rest of the article."
+        ],
+        "error": false
+      },
+      {
+        "index": 2,
+        "tags": [
+          "recession-indicators"
+        ],
+        "content": [
+          "This section discusses the current economic conditions, including inflation rates and interest rate trends."
+        ],
+        "error": false
+      },
+      {
+        "index": 3,
+        "tags": [
+          "consumer-sentiment"
+        ],
+        "content": [
+          "This part explores market sentiment, consumer spending patterns, and their impact on the economy."
+        ],
+        "error": false
+      },
+      {
+        "index": 0,
+        "tags": [
+          "introduction"
+        ],
+        "content": [
+          "This is the first paragraph of the article, which provides an introduction and overview of the main topic.",
+          "The content sets the stage for discussing key economic insights."
+        ],
+        "error": false
+      },
+      {
+        "index": 1,
+        "tags": [
+          "inflation rate"
+        ],
+        "content": [
+          "This section discusses the current inflation percentage in the economy.",
+          "It provides context on how inflation is measured and its implications."
+        ],
+        "error": false
+      },
+      {
+        "index": 2,
+        "tags": [
+          "interest rates"
+        ],
+        "content": [
+          "This part explains the central bank's interest rate policies and their impact on the economy.",
+          "It highlights how interest rates affect borrowing costs and spending patterns."
+        ],
+        "error": false
+      },
+      {
+        "index": 3,
+        "tags": [
+          "recession indicators"
+        ],
+        "content": [
+          "This section provides data points indicating current recession trends, such as unemployment rates.",
+          "It analyzes these indicators to assess the overall economic health."
+        ],
+        "error": false
+      },
+      {
+        "index": 4,
+        "tags": [
+          "consumer sentiment"
+        ],
+        "content": [
+          "This part discusses consumer spending patterns and satisfaction levels in the economy.",
+          "It explores how consumer sentiment influences market trends."
+        ],
+        "error": false
+      },
+      {
+        "index": 0,
+        "error": true,
+        "tags": [
+          "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+      }
+    ]
+  },
+  {
+    "url": "https://www.cnbc.com/2025/03/19/transitory-is-back-as-the-fed-doesnt-expect-tariffs-to-have-long-lasting-inflation-impacts.html",
+    "data": [
+      {
+        "index": 1,
+        "error": true,
+        "tags": [
+          "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+      },
+      {
+        "index": 2,
+        "error": true,
+        "tags": [
+          "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+      },
+      {
+        "index": 0,
+        "tags": [
+          "introduction"
+        ],
+        "content": [
+          "This is the first paragraph of the article, which provides an introduction and overview of the main topic.",
+          "It sets the stage for the rest of the article by discussing the overall theme."
+        ],
+        "error": false
+      },
+      {
+        "index": 1,
+        "tags": [
+          "background"
+        ],
+        "content": [
+          "This is the second paragraph, which delves into the history and background of the topic.",
+          "It provides context and sets the stage for the rest of the article."
+        ],
+        "error": false
+      },
+      {
+        "index": 2,
+        "tags": [
+          "consumer sentiment"
+        ],
+        "content": [
+          "This is the third paragraph, which discusses household spending and confidence levels in detail."
+        ],
+        "error": false
+      },
+      {
+        "index": 3,
+        "tags": [
+          "manufacturing"
+        ],
+        "content": [
+          "This is the fourth paragraph, discussing inflation rates specifically for manufacturing."
+        ],
+        "error": false
+      },
+      {
+        "index": 4,
+        "tags": [
+          "services"
+        ],
+        "content": [
+          "This is the fifth paragraph, focusing on interest rate trends in services."
+        ],
+        "error": false
+      },
+      {
+        "index": 5,
+        "tags": [
+          "recession indicators"
+        ],
+        "content": [
+          "This is the sixth paragraph, detailing specific recession indicators such as GDP growth rates."
+        ],
+        "error": false
+      },
+      {
+        "index": 6,
+        "tags": [
+          "inflation rates"
+        ],
+        "content": [
+          "This is the seventh paragraph, discussing inflation rates across various regions and time periods."
+        ],
+        "error": false
+      },
+      {
+        "index": 7,
+        "tags": [
+          "global economy implications"
+        ],
+        "content": [
+          "This is the eighth paragraph, tying together all discussed economic aspects to provide a comprehensive overview."
+        ],
+        "error": false
+      },
+      {
+        "index": 3,
+        "error": true,
+        "tags": [
+          "error"
+        ],
+        "content": "'str' object has no attribute 'choices'"
+      }
+    ]
+  }
+]
