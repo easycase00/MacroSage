@@ -107,7 +107,7 @@ This will:
 
 Local DeepSeek model served via Ollama — fully offline.
 
-![Ollama running](SS/Screenshot 2025-03-29 at 4.56.03 PM.png)
+![Ollama running](./SS/Screenshot 2025-03-29 at 4.56.03 PM.png)
 
 ---
 
