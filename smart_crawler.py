@@ -10,7 +10,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # === CONFIG ===
-source_url = "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258"
+source_url = "Enter Your URL here"
 query = "economic indicators, inflation, consumer confidence, interest rates, tariffs, recession"
 top_k = 5
 
