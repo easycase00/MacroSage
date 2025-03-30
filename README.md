@@ -1,4 +1,4 @@
-# MacroSage: Economic Insight Extraction with Local LLMs
+# 🧠 MacroSage: Economic Insight Extraction with Local LLMs
 
 **MacroSage** is an AI-powered pipeline that crawls financial news and uses a locally deployed large language model (LLM) to extract structured economic insights — all running privately on your own machine.
 
@@ -8,7 +8,7 @@ It integrates a fully offline LLM (DeepSeek R1 8B) via [Ollama](https://ollama.c
 
 ## ⚙️ Technological Overview
 
-SmartCrawler showcases practical local LLM deployment for real-world insight extraction. Built with Python and powered by **DeepSeek R1 8B** via Ollama, it eliminates the need for API keys or cloud-based inference.
+MacroSage showcases practical local LLM deployment for real-world insight extraction. Built with Python and powered by **DeepSeek R1 8B** via Ollama, it eliminates the need for API keys or cloud-based inference.
 
 Key innovations include:
 
@@ -29,6 +29,28 @@ It demonstrates expertise in LLM orchestration, data pipelines, knowledge repres
 - 📈 **Optional Knowledge Graph Generation** with Cypher output
 - 📊 **CPI Comparison Module** for inflation analysis
 - 🔐 **100% Private & Offline**
+
+---
+
+## 🌐 Vast Applications of MacroSage
+
+MacroSage is built to be **modular and extensible**, making it valuable across a wide range of domains:
+
+| Use Case | Description |
+|----------|-------------|
+| 📉 **Market Intelligence** | Track macroeconomic shifts in real time from high-signal sources |
+| 🧠 **LLM Evaluation** | Benchmark offline models (DeepSeek, Mistral, etc.) on real-world content |
+| 📰 **Newsroom Automation** | Assist journalists in summarizing and tagging financial articles |
+| 🧾 **Regulatory Monitoring** | Identify early signals of policy changes and economic indicators |
+| 🔄 **Agentic AI Pipelines** | Feed into LangGraph agents for continuous economic reasoning |
+| 🧩 **Knowledge Graph Builders** | Populate Neo4j with rich, LLM-extracted entities and relations |
+| 🧠 **Economic Research** | Use as a dataset generator or a starting point for academic analysis |
+
+---
+
+### 💡 What I Used It For
+
+In this implementation, I chose to use **MacroSage** as a **local semantic crawler for economic trend analysis**, extracting and structuring insights from **CNBC's Economy section** and aligning them with **CPI reports and knowledge graph generation** — showcasing how local LLMs can be productionized for offline financial intelligence.
 
 ---
 
