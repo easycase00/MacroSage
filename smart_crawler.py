@@ -74,7 +74,7 @@ async def main():
 
         # === LLM Extraction ===
         llm_strategy = LLMExtractionStrategy(
-            llm_config=LLMConfig(provider="ollama/deepseek-r1:1.5b"),
+            llm_config=LLMConfig(provider="ollama/deepseek-r1:8b"),
             instruction="Extract only key economic insights: inflation %, interest rates, recession indicators, consumer sentiment. Return as valid JSON. No boilerplate.",
             extraction_type="text",
             apply_chunking=True,
