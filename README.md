@@ -74,10 +74,7 @@ In this implementation, I chose to use **MacroSage** as a **local semantic crawl
 ### 1. Install Ollama and DeepSeek
 
 ```bash
-# macOS
 brew install ollama
-
-# Download the model
 ollama pull deepseek-coder:8b-instruct
 ```
 
@@ -91,8 +88,6 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-> Requirements: `requests`, `beautifulsoup4`, `httpx`, `json`, `datetime`, etc.
-
 ### 3. Run the Crawler 🚀
 
 ```bash
@@ -103,6 +98,32 @@ This will:
 - Crawl economic articles,
 - Process them through your local DeepSeek LLM,
 - Save results to `smart_results.json`.
+
+---
+
+## 📸 Screenshots
+
+### 🧠 Ollama LLM Server Running Locally
+
+Local DeepSeek model served via Ollama — fully offline.
+
+![Ollama running](SS/Screenshot 2025-03-29 at 4.56.03 PM.png)
+
+---
+
+### 🧩 Knowledge Graph: Entity-Relationship View in Neo4j
+
+Graph output showing entities and their relationships inferred from economic news.
+
+![Neo4j Entity Graph](./screenshots/Screenshot\ 2025-03-29\ at\ 6.31.08 PM.png)
+
+---
+
+### 📄 Article-Section Graph View
+
+Shows semantic article structure as graph nodes and relationships.
+
+![Article Graph](./screenshots/Screenshot\ 2025-03-29\ at\ 7.42.30 PM.png)
 
 ---
 
@@ -134,14 +155,14 @@ This will:
 
 | File | Description |
 |------|-------------|
-| `smart_crawler.py` | **Main pipeline**. Crawls articles, queries local LLM, extracts economic insights into JSON. |
-| `crawl_commands.py` | Defines URLs and filters for selecting relevant economic content. |
-| `knowledge_graph.py` | Converts extracted insights into entity-relation triples and outputs `.cypher` files for Neo4j. |
-| `convert_to_cypher.py` | (Optional/legacy) Transforms structured data into graph-compatible format. |
-| `cpi_report1.json` | Sample CPI report for inflation analysis or baseline comparisons. |
-| `kb_results1.json` | Output of knowledge graph generator: entities, relationships, and their types. |
-| `smart_results.json` | Final LLM-tagged content from articles, ready for analysis or graphing. |
-| `neo4j_query_*.cypher` | Generated queries for populating a Neo4j knowledge graph. |
+| `smart_crawler.py` | Crawls articles, queries local LLM, extracts insights |
+| `crawl_commands.py` | Source URL definitions and keyword filters |
+| `knowledge_graph.py` | Builds entity-relation graph and exports Cypher queries |
+| `convert_to_cypher.py` | (Legacy) Graph format transformer |
+| `cpi_report1.json` | CPI data for inflation benchmarking |
+| `kb_results1.json` | Final extracted entity-relation dataset |
+| `smart_results.json` | Final output: structured article summaries |
+| `neo4j_query_*.cypher` | Neo4j queries for graph insertion |
 
 ---
 
@@ -167,8 +188,8 @@ This will:
 
 ## 📬 Contact
 
-Created by [Your Name]  
-Questions, ideas, or hiring inquiries? Open an issue or reach out on [LinkedIn/GitHub].
+Created by Hrishikesh M Bharadwaj  
+Questions, ideas, or hiring inquiries? Open an issue or reach out on [LinkedIn](https://linkedin.com/in/hrishikeshmb).
 
 ---
 
