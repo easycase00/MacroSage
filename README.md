@@ -107,7 +107,7 @@ This will:
 
 Local DeepSeek model served via Ollama — fully offline.
 
-![Ollama running](./SS/Screenshot 2025-03-29 at 4.56.03 PM.png)
+![Ollama Server Running](SS/Screenshot%202025-03-29%20at%204.56.03%E2%80%AFPM.png)
 
 ---
 
@@ -115,7 +115,7 @@ Local DeepSeek model served via Ollama — fully offline.
 
 Graph output showing entities and their relationships inferred from economic news.
 
-![Neo4j Entity Graph](./screenshots/Screenshot\ 2025-03-29\ at\ 6.31.08 PM.png)
+![Neo4j Entity Graph](SS/Screenshot%202025-03-29%20at%206.31.08%E2%80%AFPM.png)
 
 ---
 
@@ -123,7 +123,7 @@ Graph output showing entities and their relationships inferred from economic new
 
 Shows semantic article structure as graph nodes and relationships.
 
-![Article Graph](./screenshots/Screenshot\ 2025-03-29\ at\ 7.42.30 PM.png)
+![Article Graph View](SS/Screenshot%202025-03-29%20at%207.42.30%E2%80%AFPM.png)
 
 ---
 
@@ -188,8 +188,8 @@ Shows semantic article structure as graph nodes and relationships.
 
 ## 📬 Contact
 
-Created by Hrishikesh M Bharadwaj  
-Questions, ideas, or hiring inquiries? Open an issue or reach out on [LinkedIn](https://linkedin.com/in/hrishikeshmb).
+Created by [Your Name]  
+Questions, ideas, or hiring inquiries? Open an issue or reach out on [LinkedIn/GitHub].
 
 ---
 
