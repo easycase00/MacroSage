@@ -1,6 +1,6 @@
 # MacroSage: Economic Insight Extraction with Local LLMs
 
-**SmartCrawler** is an AI-powered pipeline that crawls financial news and uses a locally deployed large language model (LLM) to extract structured economic insights — all running privately on your own machine.
+**MacroSage** is an AI-powered pipeline that crawls financial news and uses a locally deployed large language model (LLM) to extract structured economic insights — all running privately on your own machine.
 
 It integrates a fully offline LLM (DeepSeek R1 8B) via [Ollama](https://ollama.com) to perform real-time semantic tagging and summarization of key macroeconomic signals like inflation, consumer sentiment, interest rates, and recession indicators.
 
