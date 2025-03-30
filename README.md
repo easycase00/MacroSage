@@ -188,8 +188,10 @@ Shows semantic article structure as graph nodes and relationships.
 
 ## 📬 Contact
 
-Created by [Your Name]  
-Questions, ideas, or hiring inquiries? Open an issue or reach out on [LinkedIn/GitHub].
+Created by **Hrishikesh M Bharadwaj**  
+🔗 [linkedin.com/in/hrishikeshmb](https://linkedin.com/in/hrishikeshmb)
+
+Questions, ideas, or hiring inquiries? Open an issue or reach out!
 
 ---
 
